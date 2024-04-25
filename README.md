@@ -9,4 +9,4 @@ Sou estudante de Ciência da Computação, atualmente no 3° período.
 - 🛢️ | SQL
 
 ## Estatísticas do GitHub
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=henriquerlara&show_icons=true)
