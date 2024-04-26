@@ -2,6 +2,6 @@
 Sou estudante de Ciência da Computação, atualmente no 3° período.
 
 ## Habilidades
-- 🔧 | HTML, CSS, JavaScript, React
+- 🔧 | HTML, CSS, JavaScript
 - 🖥️ | Java, C, C++
 - 🛢️ | SQL
