@@ -23,4 +23,4 @@ Apaixonado por tecnologia, estou constantemente explorando novas linguagens de p
 
 ## 📫 Entre em Contato
 - [Meu LinkedIn](https://www.linkedin.com/in/henrique-lara-010605280/?locale=en_US)
-- [Meu E-mail](henriquerlara@outlook.com)
+- Meu E-mail: henriquerlara@outlook.com
