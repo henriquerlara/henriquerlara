@@ -22,5 +22,5 @@ Apaixonado por tecnologia, estou constantemente explorando novas linguagens de p
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquerlara&layout=compact&theme=tokyonight)
 
 ## 📫 Entre em Contato
-- [Meu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- [Meu E-mail](mailto:seuemail@example.com)
+- [Meu LinkedIn](https://www.linkedin.com/in/henrique-lara-010605280/?locale=en_US)
+- [Meu E-mail](henriquerlara@outlook.com)
